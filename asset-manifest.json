@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/single-page-app/static/css/main.13cf56d4.css",
+    "main.js": "/single-page-app/static/js/main.1c4562da.js",
+    "index.html": "/single-page-app/index.html",
+    "main.13cf56d4.css.map": "/single-page-app/static/css/main.13cf56d4.css.map",
+    "main.1c4562da.js.map": "/single-page-app/static/js/main.1c4562da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13cf56d4.css",
+    "static/js/main.1c4562da.js"
+  ]
+}
